@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-TOKEN = "bot8928542394:AAEZ9977AxW_GtsaooL5jiSoSTFS-i1o5DU"
+TOKEN = "8928542394:AAGFc3km0UGNGBOEVXx8pPMbhBsJUx4uxOE"
 CHAT_ID = "6823880612"
 
 @app.route('/', methods=['GET', 'POST'])
